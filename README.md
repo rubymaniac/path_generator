@@ -1,4 +1,4 @@
-# PathGenerator
+# PathGenerator [![Code Climate](https://codeclimate.com/github/rubymaniac/path_generator/badges/gpa.svg)](https://codeclimate.com/github/rubymaniac/path_generator)
 
 *PathGenerator* is a microgem that generates, depth-first, paths from a Hash or an Array. Future versions will be more complete, with support for any Ruby object.
 
